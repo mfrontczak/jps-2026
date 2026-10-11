@@ -1,1 +1,4 @@
-# jps-2026
+# Java - Programowanie Sieciowe
+## 2026
+
+Zbiór przykładów
